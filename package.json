@@ -1,0 +1,16 @@
+{
+  "name": "etiiretium",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Sylvain Garant",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "youtube-mp3-downloader": "^0.5.1",
+    "youtube-node": "^1.3.2"
+  }
+}
